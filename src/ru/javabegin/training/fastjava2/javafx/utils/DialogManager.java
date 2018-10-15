@@ -19,6 +19,4 @@ public class DialogManager {
         alert.setHeaderText("");
         alert.showAndWait();
     }
-
-
 }
